@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1023]C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\ExpediaTest.dll</TopNode>
+  <SelectedNode>[0-1012]ExpediaTest.FlightTest.TestFlightsAreEqual</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1023]C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\ExpediaTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1024]ExpediaTest" Expanded="true" />
+    <Node UniqueName="[0-1010]ExpediaTest.FlightTest" Expanded="true" />
+    <Node UniqueName="[0-1000]ExpediaTest.UserTest" Expanded="true" />
+  </Nodes>
+</VisualState>

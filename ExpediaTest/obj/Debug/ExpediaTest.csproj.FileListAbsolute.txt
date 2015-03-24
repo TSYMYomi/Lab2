@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\obj\Debug\ExpediaTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\ExpediaTest.dll
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\ExpediaTest.pdb
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\Expedia.dll
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\Expedia.pdb
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\obj\Debug\ExpediaTest.dll
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\ExpediaTest\obj\Debug\ExpediaTest.pdb

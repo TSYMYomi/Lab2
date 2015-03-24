@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\bin\Debug\Expedia.dll
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\bin\Debug\Expedia.pdb
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\obj\Debug\Expedia.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\obj\Debug\Expedia.dll
+C:\Users\Administrator\Documents\GitHub\Lab2\CSSE376Lab2-UnitTesting\obj\Debug\Expedia.pdb
